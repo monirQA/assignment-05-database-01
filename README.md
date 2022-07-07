@@ -22,4 +22,4 @@
 
 - #### 11 Execute a query for the following scenario
 
-- ## 12 show customer table
+- *** 12 Show customer table
