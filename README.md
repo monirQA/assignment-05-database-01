@@ -1,6 +1,6 @@
 # Database Assignment
 
-- ## 01 Create a database named class_one_assignment
+- ### 01 Create a database named class_one_assignment
 
 - ### 02 create a table named customers
 
